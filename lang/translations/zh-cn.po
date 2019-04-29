@@ -56,6 +56,14 @@ msgctxt "Label for the delete table row button."
 msgid "Delete row"
 msgstr "删除本行"
 
+msgctxt "Label for the insert table column left."
+msgid "Insert column left"
+msgstr "在左边插入一列"
+
+msgctxt "Label for the insert table column right."
+msgid "Insert column right"
+msgstr "在右边插入一列"
+
 msgctxt "Label for the table row dropdown button."
 msgid "Row"
 msgstr "行"

@@ -15,13 +15,13 @@
 
 		/* The outer border of the table should be slightly darker than the inner lines.
 		Also see https://github.com/ckeditor/ckeditor5-table/issues/50. */
-		border: 1px double hsl(0, 0%, 70%);
+		border: 1px double hsl(0, 0%, 78%);
 
 		& td,
 		& th {
 			min-width: 2em;
-			padding: .4em;
-			border-color: hsl(0, 0%, 85%);
+			padding: 0.4em;
+			border-color: hsl(0, 0%, 89%);
 		}
 
 		& th {
